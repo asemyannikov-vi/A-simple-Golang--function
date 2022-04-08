@@ -1,3 +1,3 @@
-./lambdas/main/main.zip
-./lambdas/main/main
-./aws-sam
+/.aws-sam
+/lambdas/main/main
+/lambdas/main/main.zip
